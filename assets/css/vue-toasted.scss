@@ -1,0 +1,17 @@
+.toasted-container {
+  &.top-right {
+    @apply top-0 right-0 #{!important};
+  }
+
+  & .toasted {
+    @apply mr-3 mt-3;
+
+    /*&.toasted-primary.success {
+      @apply bg-green-primary #{!important};
+    }*/
+
+    &.toasted-primary.error {
+      @apply bg-red-primary #{!important};
+    }
+  }
+}
