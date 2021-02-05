@@ -1,0 +1,30 @@
+[
+  {
+    "name": "categories",
+    "path": "/categories",
+    "component": "C:\\\\Users\\\\jonathan\\\\Desktop\\\\Dev\\\\stream-front\\\\pages\\\\categories\\\\index.vue",
+    "chunkName": "pages/categories/index",
+    "_name": "_8d4ae39a"
+  },
+  {
+    "name": "challenges",
+    "path": "/challenges",
+    "component": "C:\\\\Users\\\\jonathan\\\\Desktop\\\\Dev\\\\stream-front\\\\pages\\\\challenges\\\\index.vue",
+    "chunkName": "pages/challenges/index",
+    "_name": "_78d67142"
+  },
+  {
+    "name": "lives-evenements",
+    "path": "/lives-evenements",
+    "component": "C:\\\\Users\\\\jonathan\\\\Desktop\\\\Dev\\\\stream-front\\\\pages\\\\lives-evenements\\\\index.vue",
+    "chunkName": "pages/lives-evenements/index",
+    "_name": "_963c2f42"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\jonathan\\\\Desktop\\\\Dev\\\\stream-front\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_2f83ee62"
+  }
+]

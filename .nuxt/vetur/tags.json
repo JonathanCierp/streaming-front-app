@@ -1,0 +1,278 @@
+{
+  "CoreHeader": {
+    "description": "Auto imported from components/core/CoreHeader.vue"
+  },
+  "LazyCoreHeader": {
+    "description": "Auto imported from components/core/CoreHeader.vue"
+  },
+  "CoreHeaderItem": {
+    "description": "Auto imported from components/core/CoreHeaderItem.vue"
+  },
+  "LazyCoreHeaderItem": {
+    "description": "Auto imported from components/core/CoreHeaderItem.vue"
+  },
+  "IconChevronLeft": {
+    "description": "Auto imported from components/icons/IconChevronLeft.vue"
+  },
+  "LazyIconChevronLeft": {
+    "description": "Auto imported from components/icons/IconChevronLeft.vue"
+  },
+  "IconChevronRight": {
+    "description": "Auto imported from components/icons/IconChevronRight.vue"
+  },
+  "LazyIconChevronRight": {
+    "description": "Auto imported from components/icons/IconChevronRight.vue"
+  },
+  "IconClose": {
+    "description": "Auto imported from components/icons/IconClose.vue"
+  },
+  "LazyIconClose": {
+    "description": "Auto imported from components/icons/IconClose.vue"
+  },
+  "IconCloseArrow": {
+    "description": "Auto imported from components/icons/IconCloseArrow.vue"
+  },
+  "LazyIconCloseArrow": {
+    "description": "Auto imported from components/icons/IconCloseArrow.vue"
+  },
+  "IconFilledStar": {
+    "description": "Auto imported from components/icons/IconFilledStar.vue"
+  },
+  "LazyIconFilledStar": {
+    "description": "Auto imported from components/icons/IconFilledStar.vue"
+  },
+  "IconOutlineSearch": {
+    "description": "Auto imported from components/icons/IconOutlineSearch.vue"
+  },
+  "LazyIconOutlineSearch": {
+    "description": "Auto imported from components/icons/IconOutlineSearch.vue"
+  },
+  "IconOutlineWarning": {
+    "description": "Auto imported from components/icons/IconOutlineWarning.vue"
+  },
+  "LazyIconOutlineWarning": {
+    "description": "Auto imported from components/icons/IconOutlineWarning.vue"
+  },
+  "BaseModal": {
+    "description": "Auto imported from components/modal/BaseModal.vue"
+  },
+  "LazyBaseModal": {
+    "description": "Auto imported from components/modal/BaseModal.vue"
+  },
+  "Thread": {
+    "description": "Auto imported from components/reusable/Thread.vue"
+  },
+  "LazyThread": {
+    "description": "Auto imported from components/reusable/Thread.vue"
+  },
+  "CustomCard": {
+    "description": "Auto imported from components/custom/card/CustomCard.vue"
+  },
+  "LazyCustomCard": {
+    "description": "Auto imported from components/custom/card/CustomCard.vue"
+  },
+  "CustomForm": {
+    "description": "Auto imported from components/custom/form/CustomForm.vue"
+  },
+  "LazyCustomForm": {
+    "description": "Auto imported from components/custom/form/CustomForm.vue"
+  },
+  "CustomFormInput": {
+    "description": "Auto imported from components/custom/form/CustomFormInput.vue"
+  },
+  "LazyCustomFormInput": {
+    "description": "Auto imported from components/custom/form/CustomFormInput.vue"
+  },
+  "CustomTab": {
+    "description": "Auto imported from components/custom/tab/CustomTab.vue"
+  },
+  "LazyCustomTab": {
+    "description": "Auto imported from components/custom/tab/CustomTab.vue"
+  },
+  "CustomTabItem": {
+    "description": "Auto imported from components/custom/tab/CustomTabItem.vue"
+  },
+  "LazyCustomTabItem": {
+    "description": "Auto imported from components/custom/tab/CustomTabItem.vue"
+  },
+  "CustomTabItems": {
+    "description": "Auto imported from components/custom/tab/CustomTabItems.vue"
+  },
+  "LazyCustomTabItems": {
+    "description": "Auto imported from components/custom/tab/CustomTabItems.vue"
+  },
+  "CustomTabs": {
+    "description": "Auto imported from components/custom/tab/CustomTabs.vue"
+  },
+  "LazyCustomTabs": {
+    "description": "Auto imported from components/custom/tab/CustomTabs.vue"
+  },
+  "IconAudio": {
+    "description": "Auto imported from components/icons/medias/IconAudio.vue"
+  },
+  "LazyIconAudio": {
+    "description": "Auto imported from components/icons/medias/IconAudio.vue"
+  },
+  "IconCirclePause": {
+    "description": "Auto imported from components/icons/medias/IconCirclePause.vue"
+  },
+  "LazyIconCirclePause": {
+    "description": "Auto imported from components/icons/medias/IconCirclePause.vue"
+  },
+  "IconCirclePlay": {
+    "description": "Auto imported from components/icons/medias/IconCirclePlay.vue"
+  },
+  "LazyIconCirclePlay": {
+    "description": "Auto imported from components/icons/medias/IconCirclePlay.vue"
+  },
+  "IconImage": {
+    "description": "Auto imported from components/icons/medias/IconImage.vue"
+  },
+  "LazyIconImage": {
+    "description": "Auto imported from components/icons/medias/IconImage.vue"
+  },
+  "IconText": {
+    "description": "Auto imported from components/icons/medias/IconText.vue"
+  },
+  "LazyIconText": {
+    "description": "Auto imported from components/icons/medias/IconText.vue"
+  },
+  "IconVideo": {
+    "description": "Auto imported from components/icons/medias/IconVideo.vue"
+  },
+  "LazyIconVideo": {
+    "description": "Auto imported from components/icons/medias/IconVideo.vue"
+  },
+  "AuthModal": {
+    "description": "Auto imported from components/modal/auth/AuthModal.vue"
+  },
+  "LazyAuthModal": {
+    "description": "Auto imported from components/modal/auth/AuthModal.vue"
+  },
+  "ResearchModal": {
+    "description": "Auto imported from components/modal/research/ResearchModal.vue"
+  },
+  "LazyResearchModal": {
+    "description": "Auto imported from components/modal/research/ResearchModal.vue"
+  },
+  "CardCategory": {
+    "description": "Auto imported from components/page/categories/CardCategory.vue"
+  },
+  "LazyCardCategory": {
+    "description": "Auto imported from components/page/categories/CardCategory.vue"
+  },
+  "CategoryItem": {
+    "description": "Auto imported from components/page/categories/CategoryItem.vue"
+  },
+  "LazyCategoryItem": {
+    "description": "Auto imported from components/page/categories/CategoryItem.vue"
+  },
+  "CategoryItems": {
+    "description": "Auto imported from components/page/categories/CategoryItems.vue"
+  },
+  "LazyCategoryItems": {
+    "description": "Auto imported from components/page/categories/CategoryItems.vue"
+  },
+  "DirectCategoryItem": {
+    "description": "Auto imported from components/page/categories/DirectCategoryItem.vue"
+  },
+  "LazyDirectCategoryItem": {
+    "description": "Auto imported from components/page/categories/DirectCategoryItem.vue"
+  },
+  "DirectCategoryItems": {
+    "description": "Auto imported from components/page/categories/DirectCategoryItems.vue"
+  },
+  "LazyDirectCategoryItems": {
+    "description": "Auto imported from components/page/categories/DirectCategoryItems.vue"
+  },
+  "SoonCategoryItem": {
+    "description": "Auto imported from components/page/categories/SoonCategoryItem.vue"
+  },
+  "LazySoonCategoryItem": {
+    "description": "Auto imported from components/page/categories/SoonCategoryItem.vue"
+  },
+  "SoonCategoryItems": {
+    "description": "Auto imported from components/page/categories/SoonCategoryItems.vue"
+  },
+  "LazySoonCategoryItems": {
+    "description": "Auto imported from components/page/categories/SoonCategoryItems.vue"
+  },
+  "MyChannelItem": {
+    "description": "Auto imported from components/page/index/MyChannelItem.vue"
+  },
+  "LazyMyChannelItem": {
+    "description": "Auto imported from components/page/index/MyChannelItem.vue"
+  },
+  "MyChannelItems": {
+    "description": "Auto imported from components/page/index/MyChannelItems.vue"
+  },
+  "LazyMyChannelItems": {
+    "description": "Auto imported from components/page/index/MyChannelItems.vue"
+  },
+  "RecommandationItem": {
+    "description": "Auto imported from components/page/index/RecommandationItem.vue"
+  },
+  "LazyRecommandationItem": {
+    "description": "Auto imported from components/page/index/RecommandationItem.vue"
+  },
+  "RecommandationItems": {
+    "description": "Auto imported from components/page/index/RecommandationItems.vue"
+  },
+  "LazyRecommandationItems": {
+    "description": "Auto imported from components/page/index/RecommandationItems.vue"
+  },
+  "ResearchHeader": {
+    "description": "Auto imported from components/page/research/ResearchHeader.vue"
+  },
+  "LazyResearchHeader": {
+    "description": "Auto imported from components/page/research/ResearchHeader.vue"
+  },
+  "ResearchItem": {
+    "description": "Auto imported from components/page/research/ResearchItem.vue"
+  },
+  "LazyResearchItem": {
+    "description": "Auto imported from components/page/research/ResearchItem.vue"
+  },
+  "ResearchItems": {
+    "description": "Auto imported from components/page/research/ResearchItems.vue"
+  },
+  "LazyResearchItems": {
+    "description": "Auto imported from components/page/research/ResearchItems.vue"
+  },
+  "BaseCard": {
+    "description": "Auto imported from components/reusable/card/BaseCard.vue"
+  },
+  "LazyBaseCard": {
+    "description": "Auto imported from components/reusable/card/BaseCard.vue"
+  },
+  "BaseCardGroup": {
+    "description": "Auto imported from components/reusable/card/BaseCardGroup.vue"
+  },
+  "LazyBaseCardGroup": {
+    "description": "Auto imported from components/reusable/card/BaseCardGroup.vue"
+  },
+  "CardAudio": {
+    "description": "Auto imported from components/reusable/card/CardAudio.vue"
+  },
+  "LazyCardAudio": {
+    "description": "Auto imported from components/reusable/card/CardAudio.vue"
+  },
+  "CardImage": {
+    "description": "Auto imported from components/reusable/card/CardImage.vue"
+  },
+  "LazyCardImage": {
+    "description": "Auto imported from components/reusable/card/CardImage.vue"
+  },
+  "CardText": {
+    "description": "Auto imported from components/reusable/card/CardText.vue"
+  },
+  "LazyCardText": {
+    "description": "Auto imported from components/reusable/card/CardText.vue"
+  },
+  "CardVideo": {
+    "description": "Auto imported from components/reusable/card/CardVideo.vue"
+  },
+  "LazyCardVideo": {
+    "description": "Auto imported from components/reusable/card/CardVideo.vue"
+  }
+}

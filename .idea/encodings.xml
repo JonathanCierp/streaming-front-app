@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/assets/css/style.scss" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/components/core/CoreHeaderItem.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/components/custom/form/CustomFormInput.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/components/icons/IconClose.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/components/icons/IconCloseArrow.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/components/icons/IconFilledStar.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/components/modal/BaseModal.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/components/modal/research/ResearchModal.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/components/page/categories/DirectCategoryItem.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/components/page/categories/SoonCategoryItem.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/components/page/categories/SoonCategoryItems.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/components/page/research/ResearchHeader.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/components/page/research/ResearchItem.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/components/page/research/ResearchItems.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/layouts/default.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pages/challenges/index.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pages/research/index.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/store/index.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/tailwind.config.js" charset="UTF-8" />
+    <file url="PROJECT" charset="windows-1252" />
+  </component>
+</project>
