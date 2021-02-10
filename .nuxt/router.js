@@ -7,6 +7,7 @@ import scrollBehavior from './router.scrollBehavior.js'
 const _8d4ae39a = () => interopDefault(import('..\\pages\\categories\\index.vue' /* webpackChunkName: "pages/categories/index" */))
 const _78d67142 = () => interopDefault(import('..\\pages\\challenges\\index.vue' /* webpackChunkName: "pages/challenges/index" */))
 const _963c2f42 = () => interopDefault(import('..\\pages\\lives-evenements\\index.vue' /* webpackChunkName: "pages/lives-evenements/index" */))
+const _2500236e = () => interopDefault(import('..\\pages\\chaine\\_username.vue' /* webpackChunkName: "pages/chaine/_username" */))
 const _2f83ee62 = () => interopDefault(import('..\\pages\\index.vue' /* webpackChunkName: "pages/index" */))
 
 // TODO: remove in Nuxt 3
@@ -37,6 +38,10 @@ export const routerOptions = {
     path: "/lives-evenements",
     component: _963c2f42,
     name: "lives-evenements"
+  }, {
+    path: "/chaine/:username?",
+    component: _2500236e,
+    name: "chaine-username"
   }, {
     path: "/",
     component: _2f83ee62,

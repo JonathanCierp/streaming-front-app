@@ -1,4 +1,4 @@
-const mutations = {
+export default {
   async signup({commit}, payload) {
     try {
       const { message } = await this.$axios.$post("/api/auth/signup", payload)
@@ -42,5 +42,3 @@ const mutations = {
     this.$cookies.remove("token")
   }
 }
-
-export default mutations

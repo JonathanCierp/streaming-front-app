@@ -2,7 +2,7 @@
 	<article v-if="show && showDialog" :class="[fullscreenClass]" class="base-modal">
 		<div v-if="!fullscreen" class="base-modal__overlay"></div>
 		<transition :name="animation" @after-leave="onTransitionEnd">
-			<div v-if="showBody" class="base-modal__content">
+			<div v-if="showBody" class="base-modal__content" :style="[widthStyle]">
 				<slot />
 			</div>
 		</transition>
@@ -24,6 +24,10 @@
 			fullscreen: {
 				type: Boolean,
 				default: false
+			},
+			width: {
+				type: String,
+				default: ""
 			}
 		},
 		model: {
@@ -57,6 +61,11 @@
 		computed: {
 			fullscreenClass() {
 				return this.fullscreen ? "base-modal--fullscreen" : ""
+			},
+			widthStyle() {
+				return this.width ? {
+					width: this.width
+				} : ""
 			}
 		}
 	}

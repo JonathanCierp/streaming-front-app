@@ -4,6 +4,7 @@
     <Nuxt />
     <auth-modal />
     <research-modal />
+    <research-categories-modal />
   </div>
 </template>
 

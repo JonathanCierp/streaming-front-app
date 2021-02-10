@@ -1,7 +1,7 @@
 <template>
   <div class="card-category">
     <div class="card-image__title">
-      <h2>{{ card.title }}</h2>
+      <h2>{{ card.name }}</h2>
     </div>
     <div class="card-image__image" :style="[backgroundImage]"></div>
   </div>

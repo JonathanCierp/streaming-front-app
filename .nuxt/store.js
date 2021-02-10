@@ -22,6 +22,10 @@ let store = {};
   resolveStoreModules(require('..\\store\\auth\\actions.js'), 'auth/actions.js')
   resolveStoreModules(require('..\\store\\auth\\mutations.js'), 'auth/mutations.js')
   resolveStoreModules(require('..\\store\\auth\\state.js'), 'auth/state.js')
+  resolveStoreModules(require('..\\store\\category\\actions.js'), 'category/actions.js')
+  resolveStoreModules(require('..\\store\\category\\getters.js'), 'category/getters.js')
+  resolveStoreModules(require('..\\store\\category\\mutations.js'), 'category/mutations.js')
+  resolveStoreModules(require('..\\store\\category\\state.js'), 'category/state.js')
 
   // If the environment supports hot reloading...
 
@@ -32,6 +36,10 @@ let store = {};
       '..\\store\\auth\\actions.js',
       '..\\store\\auth\\mutations.js',
       '..\\store\\auth\\state.js',
+      '..\\store\\category\\actions.js',
+      '..\\store\\category\\getters.js',
+      '..\\store\\category\\mutations.js',
+      '..\\store\\category\\state.js',
     ], () => {
       // Update `root.modules` with the latest definitions.
       updateModules()

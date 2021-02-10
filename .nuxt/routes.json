@@ -21,6 +21,13 @@
     "_name": "_963c2f42"
   },
   {
+    "name": "chaine-username",
+    "path": "/chaine/:username?",
+    "component": "C:\\\\Users\\\\jonathan\\\\Desktop\\\\Dev\\\\stream-front\\\\pages\\\\chaine\\\\_username.vue",
+    "chunkName": "pages/chaine/_username",
+    "_name": "_2500236e"
+  },
+  {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\jonathan\\\\Desktop\\\\Dev\\\\stream-front\\\\pages\\\\index.vue",

@@ -25,7 +25,7 @@
 
           <template slot="popover">
             <ul class="header__actions__popover__actions">
-              <nuxt-link tag="li" to="/">Ma chaîne</nuxt-link>
+              <nuxt-link tag="li" :to="`/chaine/${auth.user.username}`">Ma chaîne</nuxt-link>
               <li @click="onLogout">Déconnexion</li>
             </ul>
           </template>

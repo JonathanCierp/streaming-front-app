@@ -1,5 +1,5 @@
 <template>
-  <div class="lives-evenements">
+  <main class="lives-evenements">
     <div class="lives-evenements__cards">
       <custom-card class="lives-evenements__cards__card">
         <h2>Direct</h2>
@@ -64,7 +64,7 @@
     </div>
     <thread title="Vidéos les plus vues" style="margin-top: 4rem;" :cards="cards" />
     <thread title="Vidéos récentes" style="margin-top: 4rem;" :cards="cards" />
-  </div>
+  </main>
 </template>
 
 <script>

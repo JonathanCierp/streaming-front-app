@@ -4,20 +4,40 @@
     <file url="file://$PROJECT_DIR$/assets/css/style.scss" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/components/core/CoreHeaderItem.vue" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/components/custom/form/CustomFormInput.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/components/custom/tag/CustomTag.vue" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/components/icons/IconClose.vue" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/components/icons/IconCloseArrow.vue" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/components/icons/IconFilledStar.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/components/icons/IconHeart.vue" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/components/modal/BaseModal.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/components/modal/research/ResearchCategoriesModal.vue" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/components/modal/research/ResearchModal.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/components/page/categories/CardCategory.vue" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/components/page/categories/DirectCategoryItem.vue" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/components/page/categories/SoonCategoryItem.vue" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/components/page/categories/SoonCategoryItems.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/components/page/chaine/AudiosDetails.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/components/page/chaine/ChaineDetails.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/components/page/chaine/DescriptionDetails.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/components/page/chaine/ImagesDetails.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/components/page/chaine/TextesDetails.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/components/page/chaine/VideosDetails.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/components/page/challenge/CardChallenge.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/components/page/research/ResearchCategoriesCategoriesItem.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/components/page/research/ResearchCategoriesHeader.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/components/page/research/ResearchCategoriesTagsItem.vue" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/components/page/research/ResearchHeader.vue" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/components/page/research/ResearchItem.vue" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/components/page/research/ResearchItems.vue" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/layouts/default.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pages/chaine/_username.vue" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/pages/challenges/index.vue" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/pages/research/index.vue" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/store/auth/actions.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/store/category/actions.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/store/category/getters.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/store/category/mutations.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/store/category/state.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/store/index.js" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/tailwind.config.js" charset="UTF-8" />
     <file url="PROJECT" charset="windows-1252" />

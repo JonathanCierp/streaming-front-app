@@ -10,6 +10,7 @@
   import CardText from "@/components/reusable/card/CardText"
   import CardVideo from "@/components/reusable/card/CardVideo"
   import CardCategory from "@/components/page/categories/CardCategory"
+  import CardChallenge from "@/components/page/challenge/CardChallenge"
 
   export default {
     name: "base-card",
@@ -18,7 +19,8 @@
       CardImage,
       CardText,
       CardVideo,
-      CardCategory
+      CardCategory,
+      CardChallenge
     },
     props: {
       card: {

@@ -4,7 +4,7 @@
       <div class="research-header__bar__input">
         <custom-form-input :input="input" border-color="currentColor" no-errors no-focus no-gutters with-border />
       </div>
-      <button class="research-header__bar__categories" type="button">
+      <button class="research-header__bar__categories" type="button" @click="researchCategoriesModalOpen = true">
         Toutes Catégories
       </button>
       <button class="research-header__bar__delete" type="button" @click="deleteInputValue">
@@ -39,6 +39,14 @@
         },
         set(v) {
           this.$store.commit("toggleResearchModal", v)
+        }
+      },
+      researchCategoriesModalOpen: {
+        get() {
+          return this.$store.state.researchCategoriesModalIsOpen
+        },
+        set(v) {
+          this.$store.commit("toggleResearchCategoriesModal", v)
         }
       }
     }

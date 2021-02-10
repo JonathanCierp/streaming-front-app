@@ -41,6 +41,12 @@
   "LazyIconFilledStar": {
     "description": "Auto imported from components/icons/IconFilledStar.vue"
   },
+  "IconHeart": {
+    "description": "Auto imported from components/icons/IconHeart.vue"
+  },
+  "LazyIconHeart": {
+    "description": "Auto imported from components/icons/IconHeart.vue"
+  },
   "IconOutlineSearch": {
     "description": "Auto imported from components/icons/IconOutlineSearch.vue"
   },
@@ -107,6 +113,12 @@
   "LazyCustomTabs": {
     "description": "Auto imported from components/custom/tab/CustomTabs.vue"
   },
+  "CustomTag": {
+    "description": "Auto imported from components/custom/tag/CustomTag.vue"
+  },
+  "LazyCustomTag": {
+    "description": "Auto imported from components/custom/tag/CustomTag.vue"
+  },
   "IconAudio": {
     "description": "Auto imported from components/icons/medias/IconAudio.vue"
   },
@@ -148,6 +160,12 @@
   },
   "LazyAuthModal": {
     "description": "Auto imported from components/modal/auth/AuthModal.vue"
+  },
+  "ResearchCategoriesModal": {
+    "description": "Auto imported from components/modal/research/ResearchCategoriesModal.vue"
+  },
+  "LazyResearchCategoriesModal": {
+    "description": "Auto imported from components/modal/research/ResearchCategoriesModal.vue"
   },
   "ResearchModal": {
     "description": "Auto imported from components/modal/research/ResearchModal.vue"
@@ -197,6 +215,48 @@
   "LazySoonCategoryItems": {
     "description": "Auto imported from components/page/categories/SoonCategoryItems.vue"
   },
+  "AudiosDetails": {
+    "description": "Auto imported from components/page/chaine/AudiosDetails.vue"
+  },
+  "LazyAudiosDetails": {
+    "description": "Auto imported from components/page/chaine/AudiosDetails.vue"
+  },
+  "ChaineDetails": {
+    "description": "Auto imported from components/page/chaine/ChaineDetails.vue"
+  },
+  "LazyChaineDetails": {
+    "description": "Auto imported from components/page/chaine/ChaineDetails.vue"
+  },
+  "DescriptionDetails": {
+    "description": "Auto imported from components/page/chaine/DescriptionDetails.vue"
+  },
+  "LazyDescriptionDetails": {
+    "description": "Auto imported from components/page/chaine/DescriptionDetails.vue"
+  },
+  "ImagesDetails": {
+    "description": "Auto imported from components/page/chaine/ImagesDetails.vue"
+  },
+  "LazyImagesDetails": {
+    "description": "Auto imported from components/page/chaine/ImagesDetails.vue"
+  },
+  "TextesDetails": {
+    "description": "Auto imported from components/page/chaine/TextesDetails.vue"
+  },
+  "LazyTextesDetails": {
+    "description": "Auto imported from components/page/chaine/TextesDetails.vue"
+  },
+  "VideosDetails": {
+    "description": "Auto imported from components/page/chaine/VideosDetails.vue"
+  },
+  "LazyVideosDetails": {
+    "description": "Auto imported from components/page/chaine/VideosDetails.vue"
+  },
+  "CardChallenge": {
+    "description": "Auto imported from components/page/challenge/CardChallenge.vue"
+  },
+  "LazyCardChallenge": {
+    "description": "Auto imported from components/page/challenge/CardChallenge.vue"
+  },
   "MyChannelItem": {
     "description": "Auto imported from components/page/index/MyChannelItem.vue"
   },
@@ -220,6 +280,24 @@
   },
   "LazyRecommandationItems": {
     "description": "Auto imported from components/page/index/RecommandationItems.vue"
+  },
+  "ResearchCategoriesCategoriesItem": {
+    "description": "Auto imported from components/page/research/ResearchCategoriesCategoriesItem.vue"
+  },
+  "LazyResearchCategoriesCategoriesItem": {
+    "description": "Auto imported from components/page/research/ResearchCategoriesCategoriesItem.vue"
+  },
+  "ResearchCategoriesHeader": {
+    "description": "Auto imported from components/page/research/ResearchCategoriesHeader.vue"
+  },
+  "LazyResearchCategoriesHeader": {
+    "description": "Auto imported from components/page/research/ResearchCategoriesHeader.vue"
+  },
+  "ResearchCategoriesTagsItem": {
+    "description": "Auto imported from components/page/research/ResearchCategoriesTagsItem.vue"
+  },
+  "LazyResearchCategoriesTagsItem": {
+    "description": "Auto imported from components/page/research/ResearchCategoriesTagsItem.vue"
   },
   "ResearchHeader": {
     "description": "Auto imported from components/page/research/ResearchHeader.vue"

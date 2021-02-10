@@ -1,6 +1,4 @@
-const state = () => ({
+export default () => ({
   user: {},
   isLogged: false
 })
-
-export default state

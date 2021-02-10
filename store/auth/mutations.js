@@ -1,4 +1,4 @@
-const mutations = {
+export default {
   setAuth(state, user) {
     state.user = user
     state.isLogged = !!user.uuid
@@ -10,5 +10,3 @@ const mutations = {
     state.currentAuthInfo.inputs.find(input => input.key === inputKey).value = v
   }*/
 }
-
-export default mutations
