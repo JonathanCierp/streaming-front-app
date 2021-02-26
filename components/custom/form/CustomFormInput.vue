@@ -1,6 +1,6 @@
 <template>
   <div :class="[errorClass, noGuttersClass, noFocusClass, borderClass]" class="custom-form-input">
-    <input :id="input.key" v-model="input.value" :data-required="input.required" :placeholder="input.placeholder"
+    <input :id="inputKey ? inputKey : input.key" v-model="input.value" :data-required="input.required" :placeholder="input.placeholder"
            :style="[borderColorStyle]"
            :type="input.type" autocomplete="off" class="custom-form-input__el input--error" @input="onInput">
     <p v-if="!noErrors" class="custom-form-input__error-message">{{ errorMessage }}</p>
@@ -14,6 +14,10 @@
       input: {
         type: Object,
         required: true
+      },
+      inputKey: {
+        type: String,
+        default: ""
       },
       rules: {
         type: Array,

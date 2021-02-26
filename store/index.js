@@ -3,6 +3,7 @@ export const state = () => ({
   researchModalIsOpen: false,
   researchCategoriesModalIsOpen: false,
   researchIsFiltered: false,
+  addContentModalIsOpen: true,
   researchCategoriesSelected: [],
   researchTagsSelected: []
 })
@@ -19,6 +20,9 @@ export const mutations = {
   },
   toggleResearchIsFiltered(state, v) {
     state.researchIsFiltered = v
+  },
+  toggleAddContentModal(state, v) {
+    state.addContentModalIsOpen = v
   },
   selectCategories(state, item) {
     state.researchCategoriesSelected = [...state.researchCategoriesSelected, item.id]

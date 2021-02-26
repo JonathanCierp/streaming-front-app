@@ -5,6 +5,7 @@
     <auth-modal />
     <research-modal />
     <research-categories-modal />
+    <add-content-modal />
   </div>
 </template>
 
